@@ -19,11 +19,11 @@ Greetings! I am a passionate tech enthusiast with a robust background in both de
 ★★ **Fantasy Cricket App Development Expert** ★★
 
 🌐 **Why Choose Me?**  
-- ★ Reasonable Price
-- ★ Guaranteed Results
-- ★ Customer Delight Focus
-- ★ Proven Abilities
-- ★ Targeting Long-Term Relationships
+★ Reasonable Price
+★ Guaranteed Results
+★ Customer Delight Focus
+★ Proven Abilities
+★ Targeting Long-Term Relationships
 
 🛠 **Personalized Approach:**  
 I offer a tailor-made strategy, ensuring your project aligns with your vision. Witness your ideas transform into an innovative reality!
