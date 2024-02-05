@@ -38,7 +38,7 @@ I am eager to contribute to your success by turning dreams into reality. Let's e
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemit-full-stack-php-developer/) [![Upwork](https://img.shields.io/badge/Upwork-12100E?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/khemitgia) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemit-full-stack-php-developer/) 
 
 # 💻 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
