@@ -8,8 +8,6 @@
 4. **Delivery:** Timely deployment of your dream project.
 
 🏆 **Credentials:**  
-- 🔖 3k+ Hours on Upwork
-- 🔖 TOP RATED
 - 🔖 10+ Years of Experience
 
 👨‍💻 **About Me:**  
