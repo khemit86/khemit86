@@ -1,20 +1,21 @@
-# 💫 About Me:
-🚀 **Elevate Your Project with Expertise and Dedication!** 🚀
-
-🌐 **Project Phases:**  
-1. **Wireframing:** Transforming ideas into structured visuals.
-2. **Designs:** Crafting intuitive UX/UI for seamless experiences.
-3. **Coding + Quality Control:** Meticulous development with rigorous testing.
-4. **Delivery:** Timely deployment of your dream project.
-
-🏆 **Credentials:**  
-- 🔖 10+ Years of Experience
+🚀 **Full Stack Developer | Web/App & Backend Development** 🚀
 
 👨‍💻 **About Me:**  
-Greetings! I am a passionate tech enthusiast with a robust background in both design and development. Proficient in UX/UI design, web development, and mobile development.
+Greetings! I am a experienced Full stack Developer with over **12 years** of expertise in software product development and a deep understanding of end-to-end processes. Proficient in a wide range of programming languages, frameworks, and tools. A dedicated team player with strong analytical and problem-solving skills, consistently delivering high-quality solutions.
 
-🌟 **Specialization:**  
-★★ **Fantasy Cricket App Development Expert** ★★
+🏆 **Education:**
+**Bachelor of Technology (B.Tech) in Computer Science, Rajasthan University, 2008**
+
+🌟 **Technology:**  
+★★ **Programming Languages: Node.js, NextJS, ReactJS, Object-Oriented Programming (OOP), TypeScript** ★★
+★★ **Frameworks: Express JS** ★★
+★★ **Scripting Languages: JavaScript, Ajax, jQuery, JSON, XML, RESTful APIs** ★★
+★★ **Databases: MongoDB, MySQL, NoSQL, PostgreSQL** ★★
+★★ **Application Environments: Apache, Nginx** ★★
+★★ **Version Control Systems: CI/CD, Jenkins, Git, Bitbucket** ★★
+★★ **Server Solutions: AWS, S3, EC2, SNS, SES** ★★
+★★ **Testing- Experience with test cases using frameworks like Jest** ★★
+★★ **Others- Micro services architecture, Middleware, es6, event driven architecture** ★★
 
 🌐 **Why Choose Me?**  
 - ★ Reasonable Price
@@ -22,6 +23,12 @@ Greetings! I am a passionate tech enthusiast with a robust background in both de
 - ★ Customer Delight Focus
 - ★ Proven Abilities
 - ★ Targeting Long-Term Relationships
+
+🌐 **Project Phases:**  
+1. **Wireframing:** Transforming ideas into structured visuals.
+2. **Designs:** Crafting intuitive UX/UI for seamless experiences.
+3. **Coding + Quality Control:** Meticulous development with rigorous testing.
+4. **Delivery:** Timely deployment of your dream project.
 
 🛠 **Personalized Approach:**  
 I offer a tailor-made strategy, ensuring your project aligns with your vision. Witness your ideas transform into an innovative reality!
